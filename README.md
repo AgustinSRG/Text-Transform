@@ -58,6 +58,7 @@ Parsers and formatters functions can return a `Promise` if you require async fun
 # Examples
 
 - [Basic example](https://agustinsrg.github.io/Text-Transform/example.html)
+- [Example of base encoder](https://agustinsrg.github.io/Text-Transform/apps/base-encoder/)
 
 # Build from source code
 
