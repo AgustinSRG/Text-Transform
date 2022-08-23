@@ -21,7 +21,7 @@ Define the transform algorithm:
 ```js
 TextTransform.ready(function () {
     // First argument: Element or selector to mount into
-    // Second argument: Array of inpur parsers. 
+    // Second argument: Array of input parsers. 
     // They parse the input text to intermediary unified format for formatters
     // Set a parser to null if the input does not need any parsing
     // Third argument: Array of formatters, 
